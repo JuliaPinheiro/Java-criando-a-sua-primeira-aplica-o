@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12696ef-47cc-4603-890c-7bd879c8e942" name="Changes" comment=" init exercises">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primeiro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/exercises.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Casting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +58,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Average">
+  <component name="RunManager" selected="Application.Casting">
     <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Average" />
       <module name="exercises" />
@@ -69,15 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Estudos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Estudos" />
+    <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Casting" />
       <module name="exercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Perfil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Perfil" />
+    <configuration name="Estudos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Estudos" />
       <module name="exercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Casting" />
         <item itemvalue="Application.Average" />
         <item itemvalue="Application.Soma" />
         <item itemvalue="Application.Subtracao" />
         <item itemvalue="Application.Estudos" />
-        <item itemvalue="Application.Perfil" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723221731193</updated>
-      <workItem from="1723221732330" duration="7339000" />
+      <workItem from="1723221732330" duration="7660000" />
     </task>
     <task id="LOCAL-00001" summary=" init exercises">
       <option name="closed" value="true" />
