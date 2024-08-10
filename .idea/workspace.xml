@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12696ef-47cc-4603-890c-7bd879c8e942" name="Changes" comment=" init exercises">
-      <change afterPath="$PROJECT_DIR$/src/DiscountCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condicional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DiscountCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiscountCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2kQhVBTQ1cW2yFC3kYxi3y62wgs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -40,6 +42,7 @@
   "keyToString": {
     "Application.Average.executor": "Run",
     "Application.Casting.executor": "Run",
+    "Application.Condicional.executor": "Run",
     "Application.CurrencyConverter.executor": "Run",
     "Application.DiscountCalculator.executor": "Run",
     "Application.Estudos.executor": "Run",
@@ -63,9 +66,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DiscountCalculator">
-    <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Casting" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\julia\OneDrive\Desktop\primeiro\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Condicional">
+    <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Condicional" />
       <module name="exercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,26 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="exercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="exercises" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Condicional" />
         <item itemvalue="Application.DiscountCalculator" />
         <item itemvalue="Application.CurrencyConverter" />
         <item itemvalue="Application.TotalPriceCalculator" />
         <item itemvalue="Application.MessageConcatenation" />
-        <item itemvalue="Application.Casting" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723221731193</updated>
       <workItem from="1723221732330" duration="11319000" />
+      <workItem from="1723259442603" duration="1843000" />
     </task>
     <task id="LOCAL-00001" summary=" init exercises">
       <option name="closed" value="true" />
