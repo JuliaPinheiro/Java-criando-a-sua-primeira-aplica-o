@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12696ef-47cc-4603-890c-7bd879c8e942" name="Changes" comment=" init exercises">
-      <change afterPath="$PROJECT_DIR$/src/Condicional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DiscountCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiscountCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,34 +36,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Average.executor": "Run",
-    "Application.Casting.executor": "Run",
-    "Application.Condicional.executor": "Run",
-    "Application.CurrencyConverter.executor": "Run",
-    "Application.DiscountCalculator.executor": "Run",
-    "Application.Estudos.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MessageConcatenation.executor": "Run",
-    "Application.Perfil.executor": "Run",
-    "Application.Soma.executor": "Run",
-    "Application.Subtracao.executor": "Run",
-    "Application.TotalPriceCalculator.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "principal",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/julia/OneDrive/Desktop/primeiro/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Average.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Casting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Condicional.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CurrencyConverter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiscountCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Estudos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MessageConcatenation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Perfil.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Soma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Subtracao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TotalPriceCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;principal&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/julia/OneDrive/Desktop/primeiro/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\julia\OneDrive\Desktop\primeiro\src" />
@@ -134,7 +132,8 @@
       <option name="presentableId" value="Default" />
       <updated>1723221731193</updated>
       <workItem from="1723221732330" duration="11319000" />
-      <workItem from="1723259442603" duration="1843000" />
+      <workItem from="1723259442603" duration="4955000" />
+      <workItem from="1723394061784" duration="876000" />
     </task>
     <task id="LOCAL-00001" summary=" init exercises">
       <option name="closed" value="true" />
