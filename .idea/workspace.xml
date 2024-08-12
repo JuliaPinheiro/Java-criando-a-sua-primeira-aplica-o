@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12696ef-47cc-4603-890c-7bd879c8e942" name="Changes" comment=" init exercises">
-      <change afterPath="$PROJECT_DIR$/src/ParityChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactorialCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     "Application.MessageConcatenation.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.NumberComparison.executor": "Run",
+    "Application.ParityChecker.executor": "Run",
     "Application.Perfil.executor": "Run",
     "Application.PosNegChecker.executor": "Run",
     "Application.Scanner.executor": "Run",
@@ -76,9 +78,9 @@
       <recent name="C:\Users\julia\OneDrive\Desktop\primeiro\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ParityChecker">
-    <configuration name="GuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GuessingGame" />
+  <component name="RunManager" selected="Application.FactorialCalculator">
+    <configuration name="FactorialCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactorialCalculator" />
       <module name="exercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactorialCalculator" />
         <item itemvalue="Application.ParityChecker" />
         <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.NumberComparison" />
         <item itemvalue="Application.PosNegChecker" />
-        <item itemvalue="Application.GuessingGame" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +145,7 @@
       <workItem from="1723394061784" duration="6415000" />
       <workItem from="1723459870737" duration="4995000" />
       <workItem from="1723465706888" duration="548000" />
-      <workItem from="1723471825486" duration="2430000" />
+      <workItem from="1723471825486" duration="4053000" />
     </task>
     <task id="LOCAL-00001" summary=" init exercises">
       <option name="closed" value="true" />
