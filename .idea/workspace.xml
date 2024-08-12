@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12696ef-47cc-4603-890c-7bd879c8e942" name="Changes" comment=" init exercises">
-      <change afterPath="$PROJECT_DIR$/src/GuessingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PosNegChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +52,7 @@
     "Application.Main.executor": "Run",
     "Application.MessageConcatenation.executor": "Run",
     "Application.Perfil.executor": "Run",
+    "Application.PosNegChecker.executor": "Run",
     "Application.Scanner.executor": "Run",
     "Application.Soma.executor": "Run",
     "Application.Subtracao.executor": "Run",
@@ -74,14 +76,7 @@
       <recent name="C:\Users\julia\OneDrive\Desktop\primeiro\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GuessingGame">
-    <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Condicional" />
-      <module name="exercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NumberComparison">
     <configuration name="GuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GuessingGame" />
       <module name="exercises" />
@@ -103,8 +98,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scan" />
+    <configuration name="NumberComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberComparison" />
+      <module name="exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PosNegChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PosNegChecker" />
       <module name="exercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberComparison" />
+        <item itemvalue="Application.PosNegChecker" />
         <item itemvalue="Application.GuessingGame" />
         <item itemvalue="Application.LoopW" />
         <item itemvalue="Application.LoopF" />
-        <item itemvalue="Application.Scanner" />
-        <item itemvalue="Application.Condicional" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +141,9 @@
       <workItem from="1723221732330" duration="11319000" />
       <workItem from="1723259442603" duration="4955000" />
       <workItem from="1723394061784" duration="6415000" />
-      <workItem from="1723459870737" duration="4434000" />
+      <workItem from="1723459870737" duration="4995000" />
+      <workItem from="1723465706888" duration="548000" />
+      <workItem from="1723471825486" duration="734000" />
     </task>
     <task id="LOCAL-00001" summary=" init exercises">
       <option name="closed" value="true" />
