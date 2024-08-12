@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12696ef-47cc-4603-890c-7bd879c8e942" name="Changes" comment=" init exercises">
-      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoopW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopF.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +46,7 @@
     "Application.DiscountCalculator.executor": "Run",
     "Application.Estudos.executor": "Run",
     "Application.Loop.executor": "Run",
+    "Application.LoopW.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MessageConcatenation.executor": "Run",
     "Application.Perfil.executor": "Run",
@@ -71,16 +73,9 @@
       <recent name="C:\Users\julia\OneDrive\Desktop\primeiro\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Loop">
+  <component name="RunManager" selected="Application.LoopW">
     <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condicional" />
-      <module name="exercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CurrencyConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CurrencyConverter" />
       <module name="exercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,8 +88,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop" />
+    <configuration name="LoopF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopF" />
+      <module name="exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopW" />
       <module name="exercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Loop" />
+        <item itemvalue="Application.LoopW" />
+        <item itemvalue="Application.LoopF" />
         <item itemvalue="Application.Scanner" />
         <item itemvalue="Application.Condicional" />
         <item itemvalue="Application.DiscountCalculator" />
-        <item itemvalue="Application.CurrencyConverter" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +138,7 @@
       <workItem from="1723221732330" duration="11319000" />
       <workItem from="1723259442603" duration="4955000" />
       <workItem from="1723394061784" duration="6415000" />
-      <workItem from="1723459870737" duration="1402000" />
+      <workItem from="1723459870737" duration="2167000" />
     </task>
     <task id="LOCAL-00001" summary=" init exercises">
       <option name="closed" value="true" />
