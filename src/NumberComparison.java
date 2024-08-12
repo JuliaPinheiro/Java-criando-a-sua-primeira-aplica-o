@@ -20,7 +20,5 @@ public class NumberComparison {
         } else {
             System.out.println("o segundo número é maior que o primeiro");
         }
-
-
     }
 }

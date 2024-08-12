@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12696ef-47cc-4603-890c-7bd879c8e942" name="Changes" comment=" init exercises">
-      <change afterPath="$PROJECT_DIR$/src/NumberComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PosNegChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AreaCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberComparison.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
     "Application.LoopW.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MessageConcatenation.executor": "Run",
+    "Application.NumberComparison.executor": "Run",
     "Application.Perfil.executor": "Run",
     "Application.PosNegChecker.executor": "Run",
     "Application.Scanner.executor": "Run",
@@ -143,7 +144,7 @@
       <workItem from="1723394061784" duration="6415000" />
       <workItem from="1723459870737" duration="4995000" />
       <workItem from="1723465706888" duration="548000" />
-      <workItem from="1723471825486" duration="734000" />
+      <workItem from="1723471825486" duration="1412000" />
     </task>
     <task id="LOCAL-00001" summary=" init exercises">
       <option name="closed" value="true" />
